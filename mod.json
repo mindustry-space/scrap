@@ -1,0 +1,10 @@
+{
+  "author": "jyooru",
+  "description": "Sets all bundle values to their keys. Useful when scraping data using Pulverizer.",
+  "displayName": "Scrap",
+  "hidden": true,
+  "minGameVersion": 136,
+  "name": "scrap",
+  "repo": "mindustry-space/scrap",
+  "version": "0.0.1"
+}
